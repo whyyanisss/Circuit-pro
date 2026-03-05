@@ -2,7 +2,7 @@
   "name": "circuit-pro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://whyyanisss.github.io/Circuit-pro",
+  "homepage": "https://whyyanisss.github.io/Circuit-pro/",
   "dependencies": {
     "lucide-react": "^0.45.0",
     "react": "^18.2.0",
