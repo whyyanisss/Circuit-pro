@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Circuit-pro/static/css/main.f98af5f4.css",
-    "main.js": "/Circuit-pro/static/js/main.e13b6020.js",
+    "main.css": "/Circuit-pro/static/css/main.aa5fbdc0.css",
+    "main.js": "/Circuit-pro/static/js/main.704f3a50.js",
     "static/js/453.02ff83ec.chunk.js": "/Circuit-pro/static/js/453.02ff83ec.chunk.js",
     "index.html": "/Circuit-pro/index.html",
-    "main.f98af5f4.css.map": "/Circuit-pro/static/css/main.f98af5f4.css.map",
-    "main.e13b6020.js.map": "/Circuit-pro/static/js/main.e13b6020.js.map",
+    "main.aa5fbdc0.css.map": "/Circuit-pro/static/css/main.aa5fbdc0.css.map",
+    "main.704f3a50.js.map": "/Circuit-pro/static/js/main.704f3a50.js.map",
     "453.02ff83ec.chunk.js.map": "/Circuit-pro/static/js/453.02ff83ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f98af5f4.css",
-    "static/js/main.e13b6020.js"
+    "static/css/main.aa5fbdc0.css",
+    "static/js/main.704f3a50.js"
   ]
 }
